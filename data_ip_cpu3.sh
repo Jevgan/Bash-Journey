@@ -7,3 +7,5 @@
     echo -e "\nDate: $date \tIp: $ip \nTop 3 most CPU processes: \n$cpu_first_three\n"
     sleep 1
 #done
+
+#fjwkjfwelkj
